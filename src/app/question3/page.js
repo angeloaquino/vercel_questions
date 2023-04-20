@@ -12,7 +12,8 @@ export default function Home() {
         <p>Question 3. How would you compare Next.js with another framework? Feel free to compare with a framework of your choice. </p>
          <br></br>
          <p> React.js is the framework I learned at coding bootcamp (UCLA extension), and from what I understand, Next.js is a framework built on top of React.js with better features for quick deployment. </p>
-        
+         <br></br>
+        <a href="https://vercel-questions.vercel.app/"> <h1>Click to go back to HOME </h1> </a>
       </div>
 
       

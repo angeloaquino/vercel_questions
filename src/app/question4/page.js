@@ -20,7 +20,8 @@ export default function Home() {
           <br></br>
           Edge middleware is code that executes before an application is processed, I believe this can be used to personalize an application to the user’s needs. For example, when shopping online it can display their previous searches or interests. 
           </p>
-        
+          <br></br>
+        <a href="https://vercel-questions.vercel.app/"> <h1>Click to go back to HOME </h1> </a>
       </div>
 
       

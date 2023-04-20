@@ -22,7 +22,8 @@ First, weâ€™ll need to look at your package.json file and troubleshoot if the â€
 <br></br><br></br>
 Please let me know what you find and if there are any new build errors. 
 
-
+<br></br>
+        <a href="https://vercel-questions.vercel.app/"> <h1>Click to go back to HOME </h1> </a>
       </div>
 
       
