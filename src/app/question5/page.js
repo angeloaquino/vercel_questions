@@ -21,7 +21,7 @@ Thank you for sharing the error information, from what I understand, this can be
 First, we’ll need to look at your package.json file and troubleshoot if the “next” dependency is on the correct version, ( "next": "13.3.0" ). Also, please check if the .next folder is available within the application’s top folder. 
 <br></br><br></br>
 Please let me know what you find and if there are any new build errors. 
-
+<br></br>
 <br></br>
         <a href="https://vercel-questions.vercel.app/"> <h1>Click to go back to HOME </h1> </a>
       </div>
